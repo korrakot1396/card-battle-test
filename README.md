@@ -11,6 +11,7 @@
 3. open folder ที่เรา clone มา
 4. Run คำสั่ง npm install เพื่อติดตั้ง package
 5. Run คำสั่ง npm start เพื่อเข้าใช้งานระบบ
+6. เข้าใช้งานเว็บไซต์ได้ที่ http://localhost:3000/
 
 ## วิธีการ Run ขึ้น github
 1. ใช้คำสั่ง git init เพื่อ initial 
